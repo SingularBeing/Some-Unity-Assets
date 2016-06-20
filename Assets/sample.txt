@@ -1,0 +1,2 @@
+GUI.Label> <rect>100 100 300 30</rect> <content=text>Hello! I am a label containg, what we call words!</content> <style>jagbskj:gbkjgbkajsbgkasbj</style>
+GUI.Label> <rect>100 200 30 30</rect> <content=text>I don't care about things.</content>
